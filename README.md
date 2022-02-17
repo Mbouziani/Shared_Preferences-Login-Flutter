@@ -1,5 +1,4 @@
 # Save Data in shared_preferences in Flutter  . [shared_preferences: ^2.0.13](https://pub.dev/packages/shared_preferences)
-
     Flutter plugin for reading and writing simple key-value pairs.
 
 ## Getting Started
